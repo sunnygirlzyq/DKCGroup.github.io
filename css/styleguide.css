@@ -82,15 +82,15 @@ a:focus{outline:none;text-decoration:none;}
 	transition-property: none;
 }
 .nus-logo img{height:90px;}
-@media screen and (max-width:991px) {
+@media screen and (max-width:1000px) {
 	.nus-logo{float:left;}
-	.nus-logo .navbar-brand{height:30px;padding:1px 10px 0 0;
+	.nus-logo .navbar-brand{height:50px;padding:1px 10px 0 0;
 		-moz-transition-property: none;
 		-webkit-transition-property: none;
 		-o-transition-property: none;
 		transition-property: none;
 	}
-	.nus-logo img {height:30px;}
+	.nus-logo img {height:50px;}
 }
 
 
